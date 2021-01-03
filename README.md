@@ -1,5 +1,8 @@
-<img src="assets/vibrant.svg" width="64" alt="Logo" title="vibrant Logo"> vibrant
+<img src="https://gitlab.com/vibrance/resources/-/raw/master/logo/vibrance.svg" width="64" alt="Logo" title="Vibrance Logo"> libvibrant Legacy
 -------
+
+NOTE: This library is in the process of being replaced.
+
 
 A simple library to adjust color saturation of X11 outputs.
 
