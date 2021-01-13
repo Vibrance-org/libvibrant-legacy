@@ -1,4 +1,4 @@
-<img src="https://gitlab.com/vibrance/resources/-/raw/master/logo/vibrance.svg" width="64" alt="Logo" title="Vibrance Logo"> libvibrant Legacy
+<img src="https://github.com/Vibrance-org/resources/blob/master/logo/vibrance.svg" width="64" alt="Logo" title="Vibrance Logo"> libvibrant Legacy
 -------
 
 NOTE: This library is in the process of being replaced.
